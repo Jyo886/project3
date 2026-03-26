@@ -1,6 +1,6 @@
-# HomeAssignment3
+
 Name : Jyostna Marella
-id   : 700761880
+
 
 1. Basic Autoencoder (Q1)
 What it does: Learns to compress and reconstruct images (like a "save as ZIP" for pictures)
